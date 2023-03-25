@@ -16,11 +16,5 @@ The number of increases and decreases in systolic blood pressure (SBP) during in
 Determination of the temporal properties of blood pressure signals: mean systolic pressure
 Division of the respiratory waveform into inhalations and exhalations
 Group characteristics of the above features
-Getting Started
-To run the code, you will need Python 3 and the following packages:
 
-NumPy
-SciPy
-Pandas
-Matplotlib
-Biosppy
+
